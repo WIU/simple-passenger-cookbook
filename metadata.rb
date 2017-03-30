@@ -8,5 +8,5 @@ issues_url 'https://github.com/atheiman/simple-passenger-cookbook/issues'
 version '1.1.0'
 
 depends 'build-essential', '>= 2.1'
-depends 'logrotate', '~> 1.9'
+depends 'logrotate', '~> 2.1'
 depends 'ruby_build', '~> 0.8'
