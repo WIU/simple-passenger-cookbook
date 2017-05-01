@@ -9,4 +9,4 @@ version '1.1.2'
 
 depends 'build-essential', '>= 2.1'
 depends 'logrotate', '~> 2.1'
-depends 'ruby_build', '~> 1.0.0'
+depends 'ruby_build', '>= 1.0.0'
